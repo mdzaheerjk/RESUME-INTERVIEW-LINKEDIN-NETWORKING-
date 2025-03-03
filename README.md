@@ -114,5 +114,4 @@ Networking helps you **find hidden job opportunities**.
 ✔ **Attend hackathons, webinars, and tech meetups**  
 ✔ **Engage in open-source projects** (e.g., [Google Summer of Code](https://summerofcode.withgoogle.com/))  
 
-### 🔥 How to Reach Out for Referrals  
-📩 **Template for cold messaging:**
+
