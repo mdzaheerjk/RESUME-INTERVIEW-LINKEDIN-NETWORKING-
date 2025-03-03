@@ -112,6 +112,44 @@ Networking helps you **find hidden job opportunities**.
 ✔ **Join LinkedIn & Discord communities** (E.g., AI/ML, DSA groups)  
 ✔ **Follow IT professionals & recruiters**  
 ✔ **Attend hackathons, webinars, and tech meetups**  
-✔ **Engage in open-source projects** (e.g., [Google Summer of Code](https://summerofcode.withgoogle.com/))  
+✔ **Engage in open-source projects** (e.g., [Google Summer of Code](https://summerofcode.withgoogle.com/)) 
+
+ 📌 **Best Platforms:**  
+🔹 [LinkedIn](https://www.linkedin.com/)  
+🔹 [Twitter](https://twitter.com/) (Follow #100DaysOfCode)  
+🔹 [GitHub](https://github.com/) (Contribute to trending repositories)  
+
+---
+
+## 📚 Resources & Tools  
+
+### 📖 Best Books  
+📗 **Cracking the Coding Interview** - [Buy Here](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)  
+📘 **System Design Interview** - [Buy Here](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/B08CMF2CQF)  
+📙 **SQL for Data Analysis** - [Buy Here](https://www.amazon.com/SQL-Data-Analysis-Efficient-Manipulation/dp/1492088783)  
+
+### 🛠 Tools for Practice  
+🔹 [LeetCode](https://leetcode.com/) - DSA practice  
+🔹 [GeeksforGeeks](https://www.geeksforgeeks.org/) - Coding & SQL  
+🔹 [Hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-sql) - SQL & Python challenges  
+
+---
+
+## 🤝 Contributing  
+
+🎯 Want to contribute? Feel free to **open issues, submit pull requests, and suggest improvements**!  
+
+✅ **Fork the repository**  
+✅ **Make changes & submit a PR**  
+✅ **Improve documentation & add new resources**  
+
+📌 **Let's help more people land their dream IT jobs! 🚀**  
+
+---
+
+🔗 **Follow Me:**  
+💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/)  
+📂 **GitHub**: [Your GitHub](https://github.com/)  
+🐦 **Twitter**: [Your Twitter](https://twitter.com/)
 
 
